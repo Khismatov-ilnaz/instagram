@@ -1,4 +1,4 @@
-console.log('qwerqwer');
+console.log('work');
 
 // абстрацкция - выкидываем все лишнее для решения задачи
 const buzova = {
